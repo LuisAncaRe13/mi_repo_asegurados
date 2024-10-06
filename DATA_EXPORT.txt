@@ -1,4 +1,4 @@
 <INICIO>
 1. Obtener resultado de DATA_TRANSFORM
 2. INSETAR EN UN ARCHIVO EXCEL = DATA_TRANSFORMADA
-3. EXPORTARLO A LA RUTA C\
+3. enviarlo al correo ('szlkclzx@gmail.com')
