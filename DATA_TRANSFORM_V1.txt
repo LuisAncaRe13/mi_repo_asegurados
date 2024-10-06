@@ -3,5 +3,7 @@
 2. leer archivo excel
 3. realizar transformacion
 	- ordenamiento de campo NOMBRE_1
-	- reemplace espacios en blanco con el valor = "0"
+	- reemplace espacios en blanco con el valor = "Null"
+	- considere solo 2 nombre ('Nombre_1','Nombre_2')
+	- ordenarlo por meses ('Enero','Febrero','Marzo','Abril','Mayo','Junio')
 <FIN>
